@@ -1,0 +1,14 @@
+{
+  "name": "pwau-price-compare-backend",
+  "version": "1.0.0",
+  "description": "Local dev backend for PWAU Price Compare (private/family use only)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}

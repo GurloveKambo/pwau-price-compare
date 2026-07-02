@@ -1,0 +1,65 @@
+[
+  {
+    "id": "woolworths",
+    "name": "Woolworths",
+    "enabled": true,
+    "homepage": "https://www.woolworths.com.au",
+    "searchUrl": "https://www.woolworths.com.au/shop/search/products?searchTerm={query}"
+  },
+  {
+    "id": "coles",
+    "name": "Coles",
+    "enabled": true,
+    "homepage": "https://www.coles.com.au",
+    "searchUrl": "https://www.coles.com.au/search/products?q={query}"
+  },
+  {
+    "id": "chemistWarehouse",
+    "name": "Chemist Warehouse",
+    "enabled": true,
+    "homepage": "https://www.chemistwarehouse.com.au",
+    "searchUrl": "https://www.chemistwarehouse.com.au/search?searchtext={query}"
+  },
+  {
+    "id": "priceline",
+    "name": "Priceline",
+    "enabled": true,
+    "homepage": "https://www.priceline.com.au",
+    "searchUrl": "https://www.priceline.com.au/search/?text={query}"
+  },
+  {
+    "id": "hillStreetGrocer",
+    "name": "Hill Street Grocer",
+    "enabled": true,
+    "homepage": "https://www.hillstreetgrocer.com",
+    "searchUrl": "https://www.hillstreetgrocer.com/search?q={query}"
+  },
+  {
+    "id": "salamancaFresh",
+    "name": "Salamanca Fresh",
+    "enabled": true,
+    "homepage": "https://www.salamancafresh.com.au",
+    "searchUrl": "https://www.salamancafresh.com.au/?s={query}"
+  },
+  {
+    "id": "aldi",
+    "name": "Aldi",
+    "enabled": true,
+    "homepage": "https://www.aldi.com.au",
+    "searchUrl": "https://www.aldi.com.au/results?text={query}"
+  },
+  {
+    "id": "iga",
+    "name": "IGA",
+    "enabled": true,
+    "homepage": "https://www.iga.com.au",
+    "searchUrl": "https://www.iga.com.au/search/?q={query}"
+  },
+  {
+    "id": "bigW",
+    "name": "Big W",
+    "enabled": true,
+    "homepage": "https://www.bigw.com.au",
+    "searchUrl": "https://www.bigw.com.au/search?text={query}"
+  }
+]
